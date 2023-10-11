@@ -1,0 +1,16 @@
+digraph "build/flutter_plugin_android_lifecycle/generated/source/buildConfig/debug/io/flutter/plugins"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_d2da62dff43c742eaa3869d388ef0057 {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="flutter", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_d2da62dff43c742eaa3869d388ef0057.html",tooltip=""]
+  subgraph clusterdir_3d7ac5ef2a8d4021af47444108dc852a {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_3d7ac5ef2a8d4021af47444108dc852a.html",tooltip=""]
+    dir_3d7ac5ef2a8d4021af47444108dc852a [shape=plaintext, label="plugins"];
+  dir_0116f37719a7a0c21ea316d0deaf0cae [label="flutter_plugin_android\l_lifecycle", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_0116f37719a7a0c21ea316d0deaf0cae.html",tooltip=""];
+  }
+  }
+}

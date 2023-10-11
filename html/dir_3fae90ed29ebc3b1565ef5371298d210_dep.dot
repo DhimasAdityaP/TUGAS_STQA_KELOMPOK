@@ -1,0 +1,16 @@
+digraph "build/path_provider_android/generated"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  compound=true
+  subgraph clusterdir_89bdcb407056916c6c57d4da70a2bdad {
+    graph [ bgcolor="#edf0f7", pencolor="grey50", label="path_provider_android", fontname=Helvetica,fontsize=10 style="filled,dashed", URL="dir_89bdcb407056916c6c57d4da70a2bdad.html",tooltip=""]
+  subgraph clusterdir_3fae90ed29ebc3b1565ef5371298d210 {
+    graph [ bgcolor="#edf0f7", pencolor="grey25", label="", fontname=Helvetica,fontsize=10 style="filled,bold", URL="dir_3fae90ed29ebc3b1565ef5371298d210.html",tooltip=""]
+    dir_3fae90ed29ebc3b1565ef5371298d210 [shape=plaintext, label="generated"];
+  dir_9a5355e5ad1bf5053502a35844b8ae77 [label="source", fillcolor="#a2b4d6", color="grey25", style="filled", URL="dir_9a5355e5ad1bf5053502a35844b8ae77.html",tooltip=""];
+  }
+  }
+}

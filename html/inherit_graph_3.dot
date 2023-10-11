@@ -1,0 +1,9 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  bgcolor="transparent";
+  edge [fontname=Helvetica,fontsize=10,labelfontname=Helvetica,labelfontsize=10];
+  node [fontname=Helvetica,fontsize=10,shape=box,height=0.2,width=0.4];
+  rankdir="LR";
+  Node0 [id="Node000000",label="io.flutter.plugins.flutter\l_plugin_android_lifecycle.Build\lConfig",height=0.2,width=0.4,color="grey40", fillcolor="white", style="filled",URL="$classio_1_1flutter_1_1plugins_1_1flutter__plugin__android__lifecycle_1_1_build_config.html",tooltip=" "];
+}
